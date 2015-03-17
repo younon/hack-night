@@ -1,3 +1,3 @@
 # hack-night
 hack night
-2nd Tuesday of the month @ CT Hackerspace
+3rd Tuesday of the month @ CT Hackerspace
